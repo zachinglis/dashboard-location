@@ -22,6 +22,7 @@ Credits:
   
   David Heinemeier Hansson - for account_location - http://dev.rubyonrails.org/svn/rails/plugins/account_location/
   Derek Haynes - for his modifications - http://cleanair.highgroove.com/articles/2006/08/14/simplied-subdomain-authentication-in-ruby-on-rails
+  Jon from Rails Spikes - for this post - http://railspikes.com/2008/5/1/quick-tip-store_location-with-subdomains
 
 Installation:
 

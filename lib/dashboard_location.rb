@@ -92,4 +92,9 @@ protected
   def protocol
     request.ssl? ? "https://" : "http://"
   end
+
+  # So it stores the full address rather than relative path
+  def store_location_with_domain
+    session[:return_to] = request.url
+  end
 end
